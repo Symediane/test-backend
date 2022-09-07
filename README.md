@@ -9,6 +9,7 @@ You will also need to create or update shops later on from other parts of your p
 - *Shop* entities data can be updated or created in the future. Structure your code to plan any necessary needs to easily create, update, delete a *Shop* entity in the future from other parts of your project. (Services, Factory, Manager, Exceptions ...) 
 
 ## Rules to follow
+- You must use framework Symfony ( you can choose the version )
 - You must commit regularly so we can follow your progress with an initial empty commit when you start the test
 
 ## Deliverables
